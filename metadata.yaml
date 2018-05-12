@@ -1,0 +1,33 @@
+_repo: The-Sweet-and-Touching-Tale-of-Fleur--amp--Blanchefleur--13-A-Medi-val-Legend-Translated-from__14628
+_version: 0.1.0
+alternative_title: Floire and Blancheflor
+contributor:
+  illustrator:
+    agent_name: Fortescue-Brickdale, Eleanor
+    alias: Fortescue-Brickdale, Mary Eleanor
+    gutenberg_agent_id: '39442'
+    url: http://www.gutenberg.org/2009/agents/39442
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leighton, Mrs.
+    gutenberg_agent_id: '5602'
+    url: http://www.gutenberg.org/2009/agents/5602
+description: ''
+gutenberg_issued: '2005-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14628'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcc 'PZ'
+- !lcsh 'Legends -- France'
+title: "The Sweet and Touching Tale of Fleur & Blanchefleur\r\nA Mediæval Legend Translated\
+  \ from the French"
+url: http://www.gutenberg.org/ebooks/14628
